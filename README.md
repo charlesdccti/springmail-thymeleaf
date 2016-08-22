@@ -1,37 +1,43 @@
-Aplicação de exemplo de envio de email no Spring Boot
+Example of sending email with Thymeleaf and Spring Boot
 
-Como usar esta aplicação ?
+How to use and run this application ?
 
-Requisitos :
+Requirements :
+
 MVN
 Java
 Thymeleaf
 Spring Boot
-Spring MVC
 
 
-Passo 1:
+First action : 
+
+Install mvn and java
+
+Secound action:
+
+Clone from github or Download the project and unzip.
+
+Third action :
+
+Set your email settings and database settings in src/main/resources/application.properties
+
+Fourth action :
+
+Open your favorite console and enter in unziped dir and run command mvn spring-boot:run after run command npm start to start webserver node and deploy application in http://localhost:8080
 
 
-Passo 2: 
-Clonar este projeto via git/github ou realizar o Download e descompactar o arquivo.
-
-Passo 3:
-Abrir o projeto na sua IDE
-com o deploy da aplicação que ficará disponível em http://localhost:8080
-
-
-Referência:
+Reference :
 
 Thymeleaf 3 examples: Spring Mail
 https://github.com/thymeleaf/thymeleafexamples-springmail
 
 
-Caso seja necessário solicite uma ajuda através do e-mail : deyvedvm@sr2.uerj.br
+If your need a help send message at : deyvedvm@sr2.uerj.br
 
-Envie também suas críticas e sugestões se achar necessário.
+Please also send your comments and suggestions it deems necessary.
 
-Abraços !!!
+Thanks !!!
 
 
 
