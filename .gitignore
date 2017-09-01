@@ -6,3 +6,5 @@
 *.cmd
 /mvnw
 /home/
+/.idea/
+*.iml
